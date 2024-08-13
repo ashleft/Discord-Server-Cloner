@@ -4,4 +4,5 @@ rich
 asyncio
 colorama
 inquirer
+psutil
 requests
